@@ -18,7 +18,7 @@ function validate(event) {
 
     if (userExists && rightPass) {
         alert("Login Successful");
-        window.location.href = "http://youtube.com";
+        window.location.href = "https://www.youtube.com/watch?v=N6YQwZYMJJY";
     } else {
         alert(
         "Sorry, your username or password was incorrect. Please double-check your login information and try again."
