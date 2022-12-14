@@ -18,7 +18,7 @@ function validate(event) {
 
     if (userExists && rightPass) {
         alert("Login Successful");
-        window.location.href = "https://www.youtube.com/watch?v=N6YQwZYMJJY";
+        window.location.href = "https://nethanmcqinn.github.io/kahitano/home.html";
     } else {
         alert(
         "Sorry, your username or password was incorrect. Please double-check your login information and try again."
